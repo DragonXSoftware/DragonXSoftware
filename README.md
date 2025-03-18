@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragonXSoftware "Austin"
 - 👀 I’m interested in creating with code and technology
-- 🌱 I’m currently learning Lava, Maven, SDLC, and how to be a better person.
+- 🌱 I’m currently learning Java, Maven, SDLC, and how to be a better person.
 - 💞️ I’m looking to collaborate on anything, shoot me your ideas!
 - 📫 How to reach me you can reach me at my discord : codemasteraustin
 - 😄 I am also interested in game dev and use Godot.
